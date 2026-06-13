@@ -1,7 +1,6 @@
-# Task3-Movie-Review-Sentiment-Analysis
 # Movie Review Sentiment Analysis
 
-## Project Description
+## Overview
 This project uses Machine Learning to classify movie reviews as Positive or Negative.
 
 ## Technologies Used
@@ -11,10 +10,14 @@ This project uses Machine Learning to classify movie reviews as Positive or Nega
 - Matplotlib
 
 ## Features
-- Text preprocessing
-- Sentiment prediction
-- Accuracy evaluation
-- Confusion Matrix visualization
+- Sentiment Classification
+- Accuracy Score Calculation
+- Confusion Matrix Visualization
+- User Review Prediction
 
-## Output
-The model predicts whether a movie review is positive or negative.
+## Sample Output
+The model predicts whether a movie review is positive or negative based on the input text.
+
+## Files
+- Movie_Review_Sentiment_Analysis.ipynb
+- confusion_matrix.png
